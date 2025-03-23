@@ -1,0 +1,15 @@
+[project]
+name = "qfdn-main"
+version = "0.1.0"
+description = "Quantum Feedback Delay Networks"
+readme = "README.md"
+requires-python = "==3.8.20"
+dependencies = [
+    "numpy >=1.22",
+    "matplotlib >=3.7",
+    "qiskit>=1.0",
+    "qiskit-aer",
+    "sounddevice",
+    "pylatexenc",
+    "ipykernel",
+]
