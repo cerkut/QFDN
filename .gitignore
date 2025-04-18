@@ -2,3 +2,4 @@ uv.lock
 models/__pycache__
 transformations/__pycache__
 build/
+.DS_Store
